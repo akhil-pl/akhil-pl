@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **akhilplx@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-pl" alt="akhil-pl" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-pl&show_icons=true&locale=en" alt="akhil-pl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-pl&" alt="akhil-pl" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-pl" alt="akhil-pl" /></a> </p>
 
 
 
@@ -57,7 +59,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-pl" alt="akhil-pl" /></a> </p>
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 
