@@ -1,29 +1,9 @@
-### Hi there 👋
-
-<!--
-**akhil-pl/akhil-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-
--->
-
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akhil P L</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p text-align="justify">An enthusiastic professional, currently in a daring attempt to restart his career in the field of Programming and Data Science, after having 8+ years of experience as a Civil Engineer. After finishing Diploma in Programming, now doing Diploma in Data Science as part of a multilevel online BS Degree offered by IIT, Madras.
+<h3 align="center">A passionate developer from India, writing a README.md about ME, READ me.</h3>
+<p text-align="justify">An enthusiastic professional, currently in a daring attempt to restart his career in the field of Programming and Data Science, after having 8+ years of experience as a Civil Engineer. After finishing Diploma in Programming, now doing Diploma in Data Science as part of a multilevel online BS Degree offered by IIT, Madras.<br>
  Seeking a role as a Developer or Data Analyst, where I can apply my technical skills to develop efficient and innovative software solutions. Eager to learn and grow as a professional in a dynamic and collaborative work environment</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-pl&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-pl" /> </p>
@@ -55,3 +35,34 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-pl&show_icons=true&locale=en" alt="akhil-pl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-pl&" alt="akhil-pl" /></p>
+
+
+
+
+
+
+
+<!--
+**akhil-pl/akhil-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-pl" alt="akhil-pl" /></a> </p>
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+https://github.com/anmol098/waka-readme-stats
+
+https://github.com/badges/shields
+
+-->
