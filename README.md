@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-pl&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-pl" /> </p>
 
 
-- 🔭 I’m currently working on [Self Tracker App](https://github.com/akhil-pl/self_tracker_app)
+- 🔭 I’m currently working on [My Portfolio Site](https://github.com/akhil-pl/portfolio-site)
 
 - 🌱 I’m currently learning **Data Science**
 
